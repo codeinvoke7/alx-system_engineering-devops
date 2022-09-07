@@ -1,1 +1,2 @@
 BEST="School"
+export BEST="School"
